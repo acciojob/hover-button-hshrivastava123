@@ -1,13 +1,13 @@
 
 
 /* Your CSS Code here. */
-button:Haover{
+#button{
     background-color:black;
     color:white;
     border-radius: 5px;
     border:none
 }
-button:hover{
+#button:hover{
     cursor:pointer;
     background-color:yellow;
     color:black;
